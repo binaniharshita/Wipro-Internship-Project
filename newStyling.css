@@ -1,0 +1,60 @@
+body{
+	background-color:#e9e9e9;
+	position: relative;
+	font-family: "Raleway"; font-size: 20; font-style: normal; font-variant: normal; font-weight: 700;
+}
+
+#main_table{
+	width: 100%;
+}
+
+#col_1{
+	margin-left:5%;
+	width: 20%;
+	background-color:#e9e9e9;
+}
+ 
+ #col_2{
+	background-color:#e9e9e9;
+}
+
+#form2{
+	background-color: #FFFAF6;
+	text-align: center;
+	margin-top:2%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2%;
+	box-shadow: 0px 0px 5px 5px gainsboro;
+}
+
+#calendarTable tr{
+	background-color: #FFFAF6;
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 40%;
+	margin-top: 5%;
+	position: relative;
+	box-shadow: 0px 0px 5px 5px gainsboro;
+}
+
+#detailEvents tr{
+	box-shadow: 0px 0px 0.5px 0.5px gainsboro;
+}
+
+#tableBody1 td:hover {
+	background-color:	#C0C0C0;
+	cursor:pointer;
+}
+
+#th,td{
+	padding-right: 3px;
+	padding-left: 3px;
+	text-align: center;
+}
+
+#tableBody td:hover {
+	background-color:	#C0C0C0;
+	color: whitesmoke;
+	cursor:pointer;
+}
